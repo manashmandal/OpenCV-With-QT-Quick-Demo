@@ -4,7 +4,7 @@
 It is a simple app for demonstrating OpenCV api with Qt Framework. From this project, the most basic operations, adding library path can be viewed known. Nothing serious, just a sample how to integrate Qt and OpenCV.
 
 ## Isn't this too simple?
-As I mentioned before, it is just an example for trying out on Qt after configuring Qt and OpenCV.
+<kbd>As I mentioned before, it is just an example for trying out on Qt after configuring Qt and OpenCV.</kbd>
 
 ## What does it do?
 It just rotates the selected image when the processed button is clicked. Select an image by clicking Open Image then click process to rotate it.
